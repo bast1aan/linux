@@ -1,6 +1,5 @@
-linux (6.12.87-061287.202605081018) questing; urgency=low
+linux (6.12.94-000001.202606202200) questing; urgency=low
 
-  Mainline build at commit: v6.12.87
+  Mainline build at commit: v6.12.94
 
- -- Mainline Build <kernel@balboa>  Fri, 08 May 2026 10:18:55 +0000
-
+ -- Bastiaan Welmers <bastiaan@welmers.net>  Sat, 20 Jun 2026 22:00:14 +0200
