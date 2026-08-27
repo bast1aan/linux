@@ -1,6 +1,6 @@
-linux (6.12.106-0612106.202608271357) resolute; urgency=low
+linux (6.12.106-0000001.202608271647) resolute; urgency=low
 
   Mainline build at commit: v6.12.106
 
- -- Mainline Build <kernel@balboa>  Thu, 27 Aug 2026 13:58:02 +0000
+ -- Bastiaan Welmers <bastiaan@welmers.net>  Thu, 27 Aug 2026 16:47:33 +0200
 
