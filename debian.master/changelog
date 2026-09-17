@@ -1,6 +1,6 @@
-linux (5.15.220-0000001.202609042141) jammy; urgency=low
+linux (5.15.221-0000001.202609171233) jammy; urgency=low
 
-  Mainline build at commit: v5.15.220
+  Mainline build at commit: v5.15.221
 
- -- Bastiaan Welmers <bastiaan@welmers.net>  Fri, 04 Sep 2026 21:41:52 +0200
+ -- Bastiaan Welmers <bastiaan@welmers.net>  Thu, 17 Sep 2026 12:33:46 +0200
 
