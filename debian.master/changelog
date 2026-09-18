@@ -1,6 +1,6 @@
-linux (6.1.188-0601188.202609141410) noble; urgency=low
+linux (6.1.188-0000001.202609181942) noble; urgency=low
 
   Mainline build at commit: v6.1.188
 
- -- Mainline Build <kernel@balboa>  Mon, 14 Sep 2026 14:10:38 +0000
+ -- Bastiaan Welmers <bastiaan@welmers.net>  Fri, 18 Sep 2026 19:42:38 +0200
 
