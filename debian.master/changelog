@@ -1,6 +1,6 @@
-linux (6.12.111-0000001.202609212141) resolute; urgency=low
+linux (6.12.112-0000001.202610090008) resolute; urgency=low
 
-  Mainline build at commit: v6.12.111
+  Mainline build at commit: v6.12.112
 
- -- Bastiaan Welmers <bastiaan@welmers.net>  Mon, 21 Sep 2026 21:41:31 +0200
+ -- Bastiaan Welmers <bastiaan@welmers.net>  Fri, 09 Oct 2026 00:08:02 +0200
 
