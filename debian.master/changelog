@@ -1,6 +1,6 @@
-linux (6.12.117-0000001.202611122133) noble; urgency=low
+linux (6.12.118-0000001.202611172055) noble; urgency=low
 
-  Mainline build at commit: v6.12.117
+  Mainline build at commit: v6.12.118
 
- -- Bastiaan Welmers <bastiaan@welmers.net>  Thu, 12 Nov 2026 21:33:02 +0100
+ -- Bastiaan Welmers <bastiaan@welmers.net>  Tue, 17 Nov 2026 20:55:48 +0100
 
